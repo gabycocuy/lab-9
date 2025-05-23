@@ -25,3 +25,10 @@ h1 {
   list-style: none;
   padding: 0;
 }
+#habilidades li {
+  margin: 4px 0;
+}
+#proyectos ul {
+  list-style: none;
+  padding: 0;
+}
